@@ -1,0 +1,955 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{backfrieder2013traffsim}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=114d5f3ba0e62215ad98d87144037a11}{%
+           family={Backfrieder},
+           familyi={B\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod}}}%
+        {{hash=184509d1f91c0701c2859206f8756375}{%
+           family={Mecklenbräuker},
+           familyi={M\bibinitperiod},
+           given={Christoph\bibnamedelima F},
+           giveni={C\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=3f629e4a840bd36c2ff7ad9fa0f216b5}{%
+           family={Ostermayer},
+           familyi={O\bibinitperiod},
+           given={Gerald},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{baf1d3ba7da67c816fffe6067aa439cd}
+      \strng{fullhash}{baf1d3ba7da67c816fffe6067aa439cd}
+      \strng{bibnamehash}{baf1d3ba7da67c816fffe6067aa439cd}
+      \strng{authorbibnamehash}{baf1d3ba7da67c816fffe6067aa439cd}
+      \strng{authornamehash}{baf1d3ba7da67c816fffe6067aa439cd}
+      \strng{authorfullhash}{baf1d3ba7da67c816fffe6067aa439cd}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2013 European Modelling Symposium}
+      \field{title}{TraffSim--A Traffic Simulator for Investigating Benefits Ensuing from Intelligent Traffic Management}
+      \field{year}{2013}
+      \field{pages}{451\bibrangedash 456}
+      \range{pages}{6}
+      \verb{file}
+      \verb :/Users/martinscheuchenpflug/fh/Bachelorarbeit/Literatur/TraffSim2013.pdf:PDF
+      \endverb
+    \endentry
+    \entry{backfrieder2014traffsim}{article}{}
+      \name{author}{3}{}{%
+        {{hash=114d5f3ba0e62215ad98d87144037a11}{%
+           family={Backfrieder},
+           familyi={B\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod}}}%
+        {{hash=3f629e4a840bd36c2ff7ad9fa0f216b5}{%
+           family={Ostermayer},
+           familyi={O\bibinitperiod},
+           given={Gerald},
+           giveni={G\bibinitperiod}}}%
+        {{hash=184509d1f91c0701c2859206f8756375}{%
+           family={Mecklenbräuker},
+           familyi={M\bibinitperiod},
+           given={Christoph\bibnamedelima F},
+           giveni={C\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \strng{namehash}{e4db1e5297528e0cfbbf5460dcc839e5}
+      \strng{fullhash}{e4db1e5297528e0cfbbf5460dcc839e5}
+      \strng{bibnamehash}{e4db1e5297528e0cfbbf5460dcc839e5}
+      \strng{authorbibnamehash}{e4db1e5297528e0cfbbf5460dcc839e5}
+      \strng{authornamehash}{e4db1e5297528e0cfbbf5460dcc839e5}
+      \strng{authorfullhash}{e4db1e5297528e0cfbbf5460dcc839e5}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ResearchGate}
+      \field{number}{4}
+      \field{title}{TraffSim-A traffic simulator for investigations of congestion minimization through dynamic vehicle rerouting}
+      \field{volume}{15}
+      \field{year}{2014}
+      \field{pages}{38\bibrangedash 47}
+      \range{pages}{10}
+      \verb{file}
+      \verb :/Users/martinscheuchenpflug/fh/Bachelorarbeit/Literatur/J_2014_IJSSST_Vol_15_No_4_August_2014_TraffSim.pdf:PDF
+      \endverb
+    \endentry
+    \entry{bender1970flow}{article}{}
+      \name{author}{2}{}{%
+        {{hash=ec62cc07bd91e606def6d599a2920ee8}{%
+           family={Bender},
+           familyi={B\bibinitperiod},
+           given={JG},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c10738165b93ca7a007188a91117553f}{%
+           family={Fenton},
+           familyi={F\bibinitperiod},
+           given={RE},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {INFORMS}%
+      }
+      \strng{namehash}{e02aa19961170f7fec77379694d75ea0}
+      \strng{fullhash}{e02aa19961170f7fec77379694d75ea0}
+      \strng{bibnamehash}{e02aa19961170f7fec77379694d75ea0}
+      \strng{authorbibnamehash}{e02aa19961170f7fec77379694d75ea0}
+      \strng{authornamehash}{e02aa19961170f7fec77379694d75ea0}
+      \strng{authorfullhash}{e02aa19961170f7fec77379694d75ea0}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Transportation Science}
+      \field{number}{1}
+      \field{title}{On the flow capacity of automated highways}
+      \field{volume}{4}
+      \field{year}{1970}
+      \field{pages}{52\bibrangedash 63}
+      \range{pages}{12}
+      \verb{file}
+      \verb :/Users/martinscheuchenpflug/fh/Bachelorarbeit/Literatur/On_the_flow_capacity_of_automated_heighways.pdf:PDF
+      \endverb
+    \endentry
+    \entry{Brackstone1999}{article}{}
+      \name{author}{2}{}{%
+        {{hash=82f915b17d9ab499344ac284da3f6ca1}{%
+           family={Brackstone},
+           familyi={B\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+        {{hash=8345cb7a3adbaf055bf022410c096014}{%
+           family={McDonald},
+           familyi={M\bibinitperiod},
+           given={Mike},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{960b90fe5f2ad8812f4130570188962c}
+      \strng{fullhash}{960b90fe5f2ad8812f4130570188962c}
+      \strng{bibnamehash}{960b90fe5f2ad8812f4130570188962c}
+      \strng{authorbibnamehash}{960b90fe5f2ad8812f4130570188962c}
+      \strng{authornamehash}{960b90fe5f2ad8812f4130570188962c}
+      \strng{authorfullhash}{960b90fe5f2ad8812f4130570188962c}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In recent years, the topic of car-following has become of increased importance in traffic engineering and safety research. Models of this phenomenon, which describe the interaction between (typically) adjacent vehicles in the same lane, now form the cornerstone for many important areas of research including (a) simulation modelling, where the car-following model (amongst others) controls the motion of the vehicles in the network, and (b) the functional definition of advanced vehicle control and safety systems (AVCSS), which are being introduced as a driver safety aid in an effort to mimic driver behaviour but remove human error. Despite the importance of this area however, no overview of the models availability and validity exists. It is the intent of this paper therefore to briefly assess the range of options available in the choice of car-following model, and assess just how far work has proceeded in our understanding of what, at times, would appear to be a simple process.}
+      \field{issn}{1369-8478}
+      \field{journaltitle}{Transportation Research Part F: Traffic Psychology and Behaviour}
+      \field{number}{4}
+      \field{title}{Car-following: a historical review}
+      \field{volume}{2}
+      \field{year}{1999}
+      \field{pages}{181\bibrangedash 196}
+      \range{pages}{16}
+      \verb{doi}
+      \verb https://doi.org/10.1016/S1369-8478(00)00005-X
+      \endverb
+      \verb{file}
+      \verb :/Users/martinscheuchenpflug/fh/Bachelorarbeit/Literatur/Car_Following_Models_History.pdf:PDF
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S136984780000005X
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S136984780000005X
+      \endverb
+      \keyw{Car-following,Microscopic simulation modelling,Calibration,Time-series}
+    \endentry
+    \entry{carla2017}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=72308762399d6ab62bbd9391c64c7bfd}{%
+           family={Dosovitskiy},
+           familyi={D\bibinitperiod},
+           given={Alexey},
+           giveni={A\bibinitperiod}}}%
+        {{hash=f1f2a36b2020857c1c8f6c2402336e2a}{%
+           family={Ros},
+           familyi={R\bibinitperiod},
+           given={German},
+           giveni={G\bibinitperiod}}}%
+        {{hash=7057213461868d1b1bc32960a3b2bf64}{%
+           family={Codevilla},
+           familyi={C\bibinitperiod},
+           given={Felipe},
+           giveni={F\bibinitperiod}}}%
+        {{hash=024db8bb102030127d877ec526718939}{%
+           family={Lopez},
+           familyi={L\bibinitperiod},
+           given={Antonio},
+           giveni={A\bibinitperiod}}}%
+        {{hash=9025300f43a193cfed8e10e924f2a117}{%
+           family={Koltun},
+           familyi={K\bibinitperiod},
+           given={Vladlen},
+           giveni={V\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=c9545da54b33744da25943cdf66eadac}{%
+           family={Levine},
+           familyi={L\bibinitperiod},
+           given={Sergey},
+           giveni={S\bibinitperiod}}}%
+        {{hash=8051922e7bd286f884bfbd1023ef62f5}{%
+           family={Vanhoucke},
+           familyi={V\bibinitperiod},
+           given={Vincent},
+           giveni={V\bibinitperiod}}}%
+        {{hash=1776deb0a86da5a75d0800ae967f4bd6}{%
+           family={Goldberg},
+           familyi={G\bibinitperiod},
+           given={Ken},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {PMLR}%
+      }
+      \strng{namehash}{d96316bc7578db680aba71d4226354c8}
+      \strng{fullhash}{00d4e7cbde09bfab8648fe4a57403d6e}
+      \strng{bibnamehash}{d96316bc7578db680aba71d4226354c8}
+      \strng{authorbibnamehash}{d96316bc7578db680aba71d4226354c8}
+      \strng{authornamehash}{d96316bc7578db680aba71d4226354c8}
+      \strng{authorfullhash}{00d4e7cbde09bfab8648fe4a57403d6e}
+      \strng{editorbibnamehash}{867a06cb0844d60f2102cb72028abf1b}
+      \strng{editornamehash}{867a06cb0844d60f2102cb72028abf1b}
+      \strng{editorfullhash}{867a06cb0844d60f2102cb72028abf1b}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We introduce CARLA, an open-source simulator for autonomous driving research. CARLA has been developed from the ground up to support development, training, and validation of autonomous urban driving systems. In addition to open-source code and protocols, CARLA provides open digital assets (urban layouts, buildings, vehicles) that were created for this purpose and can be used freely. The simulation platform supports flexible specification of sensor suites and environmental conditions. We use CARLA to study the performance of three approaches to autonomous driving: a classic modular pipeline, an end-to-end model trained via imitation learning, and an end-to-end model trained via reinforcement learning. The approaches are evaluated in controlled scenarios of increasing difficulty, and their performance is examined via metrics provided by CARLA, illustrating the platform’s utility for autonomous driving research.}
+      \field{booktitle}{Proceedings of the 1st Annual Conference on Robot Learning}
+      \field{month}{11}
+      \field{series}{Proceedings of Machine Learning Research}
+      \field{title}{CARLA: An Open Urban Driving Simulator}
+      \field{volume}{78}
+      \field{year}{2017}
+      \field{pages}{1\bibrangedash 16}
+      \range{pages}{16}
+      \verb{file}
+      \verb http://proceedings.mlr.press/v78/dosovitskiy17a/dosovitskiy17a.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://proceedings.mlr.press/v78/dosovitskiy17a.html
+      \endverb
+      \verb{url}
+      \verb https://proceedings.mlr.press/v78/dosovitskiy17a.html
+      \endverb
+    \endentry
+    \entry{gipps1981behavioural}{article}{}
+      \name{author}{1}{}{%
+        {{hash=09b66329e515ff3c25aa2e7a23ebd421}{%
+           family={Gipps},
+           familyi={G\bibinitperiod},
+           given={Peter\bibnamedelima G},
+           giveni={P\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{09b66329e515ff3c25aa2e7a23ebd421}
+      \strng{fullhash}{09b66329e515ff3c25aa2e7a23ebd421}
+      \strng{bibnamehash}{09b66329e515ff3c25aa2e7a23ebd421}
+      \strng{authorbibnamehash}{09b66329e515ff3c25aa2e7a23ebd421}
+      \strng{authornamehash}{09b66329e515ff3c25aa2e7a23ebd421}
+      \strng{authorfullhash}{09b66329e515ff3c25aa2e7a23ebd421}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Transportation research part B: methodological}
+      \field{number}{2}
+      \field{title}{A behavioural car-following model for computer simulation}
+      \field{volume}{15}
+      \field{year}{1981}
+      \field{pages}{105\bibrangedash 111}
+      \range{pages}{7}
+      \verb{file}
+      \verb :/Users/martinscheuchenpflug/fh/Bachelorarbeit/Literatur/A_behavioral_car_following_model_for_computer_simulation.pdf:PDF
+      \endverb
+    \endentry
+    \entry{kesting2007general}{article}{}
+      \name{author}{3}{}{%
+        {{hash=469a2cc63f35c092e5db8571c4cada63}{%
+           family={Kesting},
+           familyi={K\bibinitperiod},
+           given={Arne},
+           giveni={A\bibinitperiod}}}%
+        {{hash=21d5ad5044c3bd92d3980f5df317324d}{%
+           family={Treiber},
+           familyi={T\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+        {{hash=6f85b2d8868cd1e16ae5c55cf158b6ce}{%
+           family={Helbing},
+           familyi={H\bibinitperiod},
+           given={Dirk},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications Sage CA: Los Angeles, CA}%
+      }
+      \strng{namehash}{973751158cca06beb7d9a3dfb81ab650}
+      \strng{fullhash}{973751158cca06beb7d9a3dfb81ab650}
+      \strng{bibnamehash}{973751158cca06beb7d9a3dfb81ab650}
+      \strng{authorbibnamehash}{973751158cca06beb7d9a3dfb81ab650}
+      \strng{authornamehash}{973751158cca06beb7d9a3dfb81ab650}
+      \strng{authorfullhash}{973751158cca06beb7d9a3dfb81ab650}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Transportation Research Record}
+      \field{number}{1}
+      \field{title}{General lane-changing model MOBIL for car-following models}
+      \field{volume}{1999}
+      \field{year}{2007}
+      \field{pages}{86\bibrangedash 94}
+      \range{pages}{9}
+      \verb{file}
+      \verb :/Users/martinscheuchenpflug/fh/Bachelorarbeit/Literatur/kesting-et-al-2007-general-lane-changing-model-mobil-for-car-following-models.pdf:PDF
+      \endverb
+    \endentry
+    \entry{lee1966generalization}{article}{}
+      \name{author}{1}{}{%
+        {{hash=53b43971515c39eceedc35d239c9f8f6}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Gentry},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {INFORMS}%
+      }
+      \strng{namehash}{53b43971515c39eceedc35d239c9f8f6}
+      \strng{fullhash}{53b43971515c39eceedc35d239c9f8f6}
+      \strng{bibnamehash}{53b43971515c39eceedc35d239c9f8f6}
+      \strng{authorbibnamehash}{53b43971515c39eceedc35d239c9f8f6}
+      \strng{authornamehash}{53b43971515c39eceedc35d239c9f8f6}
+      \strng{authorfullhash}{53b43971515c39eceedc35d239c9f8f6}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Operations research}
+      \field{number}{4}
+      \field{title}{A generalization of linear car-following theory}
+      \field{volume}{14}
+      \field{year}{1966}
+      \field{pages}{595\bibrangedash 606}
+      \range{pages}{12}
+      \verb{file}
+      \verb :/Users/martinscheuchenpflug/fh/Bachelorarbeit/Literatur/lee1966.pdf:PDF
+      \endverb
+    \endentry
+    \entry{Lindorfer2018}{article}{}
+      \name{author}{3}{}{%
+        {{hash=f2f1c6f3b7b7a18203929797a1168357}{%
+           family={Lindorfer},
+           familyi={L\bibinitperiod},
+           given={Manuel},
+           giveni={M\bibinitperiod}}}%
+        {{hash=184509d1f91c0701c2859206f8756375}{%
+           family={Mecklenbräuker},
+           familyi={M\bibinitperiod},
+           given={Christoph\bibnamedelima F.},
+           giveni={C\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=3f629e4a840bd36c2ff7ad9fa0f216b5}{%
+           family={Ostermayer},
+           familyi={O\bibinitperiod},
+           given={Gerald},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{652b240ba0c6605243d169a9df43f448}
+      \strng{fullhash}{652b240ba0c6605243d169a9df43f448}
+      \strng{bibnamehash}{652b240ba0c6605243d169a9df43f448}
+      \strng{authorbibnamehash}{652b240ba0c6605243d169a9df43f448}
+      \strng{authornamehash}{652b240ba0c6605243d169a9df43f448}
+      \strng{authorfullhash}{652b240ba0c6605243d169a9df43f448}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Intelligent Transportation Systems}
+      \field{number}{9}
+      \field{title}{Modeling the Imperfect Driver: Incorporating Human Factors in a Microscopic Traffic Model}
+      \field{volume}{19}
+      \field{year}{2018}
+      \field{pages}{2856\bibrangedash 2870}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1109/TITS.2017.2765694
+      \endverb
+      \keyw{Vehicles;Human factors;Microscopy;Computational modeling;Acceleration;Vehicle dynamics;Analytical models;Car-following;human factors;traffic modeling;simulation}
+    \endentry
+    \entry{newell1961nonlinear}{article}{}
+      \name{author}{1}{}{%
+        {{hash=986eb97ec0d2c1b28fc993049f2fc924}{%
+           family={Newell},
+           familyi={N\bibinitperiod},
+           given={Gordon\bibnamedelima Frank},
+           giveni={G\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Informs}%
+      }
+      \strng{namehash}{986eb97ec0d2c1b28fc993049f2fc924}
+      \strng{fullhash}{986eb97ec0d2c1b28fc993049f2fc924}
+      \strng{bibnamehash}{986eb97ec0d2c1b28fc993049f2fc924}
+      \strng{authorbibnamehash}{986eb97ec0d2c1b28fc993049f2fc924}
+      \strng{authornamehash}{986eb97ec0d2c1b28fc993049f2fc924}
+      \strng{authorfullhash}{986eb97ec0d2c1b28fc993049f2fc924}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Operations research}
+      \field{number}{2}
+      \field{title}{Nonlinear effects in the dynamics of car following}
+      \field{volume}{9}
+      \field{year}{1961}
+      \field{pages}{209\bibrangedash 229}
+      \range{pages}{21}
+      \verb{file}
+      \verb :/Users/martinscheuchenpflug/fh/Bachelorarbeit/Literatur/Newel1961.pdf:PDF
+      \endverb
+    \endentry
+    \entry{pipes1953operational}{article}{}
+      \name{author}{1}{}{%
+        {{hash=fa5d6ce662e914beb95bb85279e0feba}{%
+           family={Pipes},
+           familyi={P\bibinitperiod},
+           given={Louis\bibnamedelima A},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Institute of Physics}%
+      }
+      \strng{namehash}{fa5d6ce662e914beb95bb85279e0feba}
+      \strng{fullhash}{fa5d6ce662e914beb95bb85279e0feba}
+      \strng{bibnamehash}{fa5d6ce662e914beb95bb85279e0feba}
+      \strng{authorbibnamehash}{fa5d6ce662e914beb95bb85279e0feba}
+      \strng{authornamehash}{fa5d6ce662e914beb95bb85279e0feba}
+      \strng{authorfullhash}{fa5d6ce662e914beb95bb85279e0feba}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of applied physics}
+      \field{number}{3}
+      \field{title}{An operational analysis of traffic dynamics}
+      \field{volume}{24}
+      \field{year}{1953}
+      \field{pages}{274\bibrangedash 281}
+      \range{pages}{8}
+      \verb{file}
+      \verb :/Users/martinscheuchenpflug/fh/Bachelorarbeit/Literatur/pipes_An_Operational_Analysis_of_Traffic_Dynamics.pdf:PDF
+      \endverb
+    \endentry
+    \entry{punzo2010integration}{article}{}
+      \name{author}{2}{}{%
+        {{hash=433b3ef291e2a404a08b7400ccd78cc5}{%
+           family={Punzo},
+           familyi={P\bibinitperiod},
+           given={Vincenzo},
+           giveni={V\bibinitperiod}}}%
+        {{hash=f9bdaa3540bec4ddcca103cea5edb346}{%
+           family={Ciuffo},
+           familyi={C\bibinitperiod},
+           given={Biagio},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{6371ba493b543103df15739ab6ee196e}
+      \strng{fullhash}{6371ba493b543103df15739ab6ee196e}
+      \strng{bibnamehash}{6371ba493b543103df15739ab6ee196e}
+      \strng{authorbibnamehash}{6371ba493b543103df15739ab6ee196e}
+      \strng{authornamehash}{6371ba493b543103df15739ab6ee196e}
+      \strng{authorfullhash}{6371ba493b543103df15739ab6ee196e}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE transactions on intelligent transportation systems}
+      \field{number}{2}
+      \field{title}{Integration of driving and traffic simulation: Issues and first solutions}
+      \field{volume}{12}
+      \field{year}{2010}
+      \field{pages}{354\bibrangedash 363}
+      \range{pages}{10}
+      \verb{file}
+      \verb :/Users/martinscheuchenpflug/fh/Bachelorarbeit/Literatur/Integration_of_Driving_and_Traffic_Simulation_Issues_and_First_Solutions.pdf:PDF
+      \endverb
+    \endentry
+    \entry{riegler2023}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=1ec132168b469d7e00d8b62179f92325}{%
+           family={Riegler},
+           familyi={R\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+        {{hash=46506a558ca5db239d944a960d60453d}{%
+           family={Riener},
+           familyi={R\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+        {{hash=3f629e4a840bd36c2ff7ad9fa0f216b5}{%
+           family={Ostermayer},
+           familyi={O\bibinitperiod},
+           given={Gerald},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{3e9eaa24b06702f9714096399a15322a}
+      \strng{fullhash}{3e9eaa24b06702f9714096399a15322a}
+      \strng{bibnamehash}{3e9eaa24b06702f9714096399a15322a}
+      \strng{authorbibnamehash}{3e9eaa24b06702f9714096399a15322a}
+      \strng{authornamehash}{3e9eaa24b06702f9714096399a15322a}
+      \strng{authorfullhash}{3e9eaa24b06702f9714096399a15322a}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Adjunct Proceedings of the 15th International Conference on Automotive User Interfaces and Interactive Vehicular Applications}
+      \field{title}{From Me to We: Combining Driving Simulation and Traffic Simulation for Holistic Usability and Safety Research}
+      \field{year}{2023}
+      \field{pages}{294\bibrangedash 296}
+      \range{pages}{3}
+      \verb{file}
+      \verb :/Users/martinscheuchenpflug/fh/Bachelorarbeit/Literatur/MeToWe.pdf:PDF
+      \endverb
+    \endentry
+    \entry{seddon1972program}{article}{}
+      \name{author}{1}{}{%
+        {{hash=352c970caf6211e4361132e1ad487715}{%
+           family={Seddon},
+           familyi={S\bibinitperiod},
+           given={Philip\bibnamedelima A},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Sage Publications Sage CA: Thousand Oaks, CA}%
+      }
+      \strng{namehash}{352c970caf6211e4361132e1ad487715}
+      \strng{fullhash}{352c970caf6211e4361132e1ad487715}
+      \strng{bibnamehash}{352c970caf6211e4361132e1ad487715}
+      \strng{authorbibnamehash}{352c970caf6211e4361132e1ad487715}
+      \strng{authornamehash}{352c970caf6211e4361132e1ad487715}
+      \strng{authorfullhash}{352c970caf6211e4361132e1ad487715}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Simulation}
+      \field{number}{3}
+      \field{title}{A program for simulating the dispersion of platoons of road traffic}
+      \field{volume}{18}
+      \field{year}{1972}
+      \field{pages}{81\bibrangedash 90}
+      \range{pages}{10}
+      \verb{file}
+      \verb :/Users/martinscheuchenpflug/fh/Bachelorarbeit/Literatur/seddon1972.pdf:PDF
+      \endverb
+    \endentry
+    \entry{That2011}{article}{}
+      \name{author}{2}{}{%
+        {{hash=bc83de04b7d90271fe88aeda828cd8ab}{%
+           family={That},
+           familyi={T\bibinitperiod},
+           given={Thomas\bibnamedelima Nguen},
+           giveni={T\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=462fa97f73aafceffa47492a1005de26}{%
+           family={Casas},
+           familyi={C\bibinitperiod},
+           given={Jordi},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{472c67ddaaeff6147393386459e7f156}
+      \strng{fullhash}{472c67ddaaeff6147393386459e7f156}
+      \strng{bibnamehash}{472c67ddaaeff6147393386459e7f156}
+      \strng{authorbibnamehash}{472c67ddaaeff6147393386459e7f156}
+      \strng{authornamehash}{472c67ddaaeff6147393386459e7f156}
+      \strng{authorfullhash}{472c67ddaaeff6147393386459e7f156}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Driving simulation has been used for many years now in research, industry and training to simulate virtual driving conditions. This is largely because simulation saves engineering time and costs, and virtual situations provide an easier and safer way to carry out road and traffic safety studies. Scenarios or scenes that realistically reproduce traffic behaviour according to the traffic flow theory has been developed since the 1980s and traffic simulators are a widely used technology in the research, planning, evaluation and development of new traffic systems (for instance Intelligent Traffic Systems). The aim of this paper is to explain how providing a simulation framework based on the integration of a driving simulation engine and a traffic simulation can respond to the issues addressed by offering multi-level and multi-domain simulation models. This paper describes the integration of the driving simulator SCANER and the traffic simulator Aimsun, where the driving simulator (including visual, audio and kinaesthetic restitution) manages the simulation in the immediate driver environment and the traffic simulator manages the whole road network situation, creating a large-scale, realistic and minutely detailed virtual world.}
+      \field{issn}{1877-0428}
+      \field{journaltitle}{Procedia - Social and Behavioral Sciences}
+      \field{title}{An integrated framework combining a traffic simulator and a driving simulator}
+      \field{volume}{20}
+      \field{year}{2011}
+      \field{pages}{648\bibrangedash 655}
+      \range{pages}{8}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.sbspro.2011.08.072
+      \endverb
+      \verb{file}
+      \verb :/Users/martinscheuchenpflug/fh/Bachelorarbeit/Literatur/IntegraionFramework.pdf:PDF
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S1877042811014522
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S1877042811014522
+      \endverb
+      \keyw{Integrated framework,Traffic Simulation,Driving Simulator,Aimsun,SCANeR ;}
+    \endentry
+    \entry{toledo2005microscopic}{incollection}{}
+      \name{author}{4}{}{%
+        {{hash=cffa1c32cf446c1a78ebd00226c38a75}{%
+           family={Toledo},
+           familyi={T\bibinitperiod},
+           given={Tomer},
+           giveni={T\bibinitperiod}}}%
+        {{hash=f7870b6501bc63e3829c467038f04fd7}{%
+           family={Koutsopoulos},
+           familyi={K\bibinitperiod},
+           given={Haris},
+           giveni={H\bibinitperiod}}}%
+        {{hash=ae71bffa7de8934347def3ae5c72a02d}{%
+           family={Ben-Akiva},
+           familyi={B\bibinithyphendelim A\bibinitperiod},
+           given={Moshe},
+           giveni={M\bibinitperiod}}}%
+        {{hash=4bba7cde6fc56db4e770a688c1c2b033}{%
+           family={Jha},
+           familyi={J\bibinitperiod},
+           given={Mithilesh},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{49d1ee12c32c4fc98a8b535d0f9492dd}
+      \strng{fullhash}{e3f439d0269df67636ff31cb1d3df78d}
+      \strng{bibnamehash}{49d1ee12c32c4fc98a8b535d0f9492dd}
+      \strng{authorbibnamehash}{49d1ee12c32c4fc98a8b535d0f9492dd}
+      \strng{authornamehash}{49d1ee12c32c4fc98a8b535d0f9492dd}
+      \strng{authorfullhash}{e3f439d0269df67636ff31cb1d3df78d}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Simulation Approaches in Transportation Analysis: Recent Advances and Challenges}
+      \field{title}{Microscopic traffic simulation: Models and application}
+      \field{year}{2005}
+      \field{pages}{99\bibrangedash 130}
+      \range{pages}{32}
+    \endentry
+    \entry{treiber2000IDM}{article}{}
+      \name{author}{3}{}{%
+        {{hash=21d5ad5044c3bd92d3980f5df317324d}{%
+           family={Treiber},
+           familyi={T\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+        {{hash=3bc9a4c3e9a2f89862b79deb849ee739}{%
+           family={Hennecke},
+           familyi={H\bibinitperiod},
+           given={Ansgar},
+           giveni={A\bibinitperiod}}}%
+        {{hash=6f85b2d8868cd1e16ae5c55cf158b6ce}{%
+           family={Helbing},
+           familyi={H\bibinitperiod},
+           given={Dirk},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society}%
+      }
+      \strng{namehash}{0ad144c334319127bcee16276c377dab}
+      \strng{fullhash}{0ad144c334319127bcee16276c377dab}
+      \strng{bibnamehash}{0ad144c334319127bcee16276c377dab}
+      \strng{authorbibnamehash}{0ad144c334319127bcee16276c377dab}
+      \strng{authornamehash}{0ad144c334319127bcee16276c377dab}
+      \strng{authorfullhash}{0ad144c334319127bcee16276c377dab}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{2}
+      \field{journaltitle}{Phys. Rev. E}
+      \field{month}{8}
+      \field{title}{Congested traffic states in empirical observations and microscopic simulations}
+      \field{volume}{62}
+      \field{year}{2000}
+      \field{pages}{1805\bibrangedash 1824}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1103/PhysRevE.62.1805
+      \endverb
+      \verb{file}
+      \verb :/Users/martinscheuchenpflug/fh/Bachelorarbeit/Literatur/IDM.pdf:PDF
+      \endverb
+      \verb{urlraw}
+      \verb https://link.aps.org/doi/10.1103/PhysRevE.62.1805
+      \endverb
+      \verb{url}
+      \verb https://link.aps.org/doi/10.1103/PhysRevE.62.1805
+      \endverb
+    \endentry
+    \entry{Treiber2010}{article}{}
+      \name{author}{2}{}{%
+        {{hash=21d5ad5044c3bd92d3980f5df317324d}{%
+           family={Treiber},
+           familyi={T\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+        {{hash=bc52fa346a19302d6266aeac2c74b779}{%
+           family={Kesting},
+           familyi={K\bibinitperiod},
+           given={Ame},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{4f2b3521570b37140924fcaa5d8cbd09}
+      \strng{fullhash}{4f2b3521570b37140924fcaa5d8cbd09}
+      \strng{bibnamehash}{4f2b3521570b37140924fcaa5d8cbd09}
+      \strng{authorbibnamehash}{4f2b3521570b37140924fcaa5d8cbd09}
+      \strng{authornamehash}{4f2b3521570b37140924fcaa5d8cbd09}
+      \strng{authorfullhash}{4f2b3521570b37140924fcaa5d8cbd09}
+      \field{extraname}{1}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Intelligent Transportation Systems Magazine}
+      \field{number}{3}
+      \field{title}{An Open-Source Microscopic Traffic Simulator}
+      \field{volume}{2}
+      \field{year}{2010}
+      \field{pages}{6\bibrangedash 13}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1109/MITS.2010.939208
+      \endverb
+      \verb{file}
+      \verb :/Users/martinscheuchenpflug/fh/Bachelorarbeit/Literatur/treiber2010.pdf:PDF
+      \endverb
+      \keyw{Acceleration;Vehicle dynamics;Java;Driver circuits;Adaptation model;Computational modeling;Simulation}
+    \endentry
+    \entry{treiber2013traffic}{book}{}
+      \name{author}{2}{}{%
+        {{hash=21d5ad5044c3bd92d3980f5df317324d}{%
+           family={Treiber},
+           familyi={T\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+        {{hash=469a2cc63f35c092e5db8571c4cada63}{%
+           family={Kesting},
+           familyi={K\bibinitperiod},
+           given={Arne},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{fedf49222ff8266e42260a3731e2049a}
+      \strng{fullhash}{fedf49222ff8266e42260a3731e2049a}
+      \strng{bibnamehash}{fedf49222ff8266e42260a3731e2049a}
+      \strng{authorbibnamehash}{fedf49222ff8266e42260a3731e2049a}
+      \strng{authornamehash}{fedf49222ff8266e42260a3731e2049a}
+      \strng{authorfullhash}{fedf49222ff8266e42260a3731e2049a}
+      \field{extraname}{2}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Traffic Flow Dynamics: Data, Models and Simulation, Springer-Verlag Berlin Heidelberg}
+      \field{title}{Traffic flow dynamics}
+      \field{volume}{227}
+      \field{year}{2013}
+      \field{pages}{228}
+      \range{pages}{1}
+      \verb{file}
+      \verb :/Users/martinscheuchenpflug/fh/Bachelorarbeit/Literatur/TrafficFlowDynamics.pdf:PDF:https\://edisciplinas.usp.br/pluginfile.php/5564382/mod_resource/content/0/Martin_Treiber___Arne_Kesting__auth._Traffic_FBookZZ.org.pdf
+      \endverb
+    \endentry
+    \entry{treiber2006delays}{article}{}
+      \name{author}{3}{}{%
+        {{hash=21d5ad5044c3bd92d3980f5df317324d}{%
+           family={Treiber},
+           familyi={T\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+        {{hash=469a2cc63f35c092e5db8571c4cada63}{%
+           family={Kesting},
+           familyi={K\bibinitperiod},
+           given={Arne},
+           giveni={A\bibinitperiod}}}%
+        {{hash=6f85b2d8868cd1e16ae5c55cf158b6ce}{%
+           family={Helbing},
+           familyi={H\bibinitperiod},
+           given={Dirk},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{5f87f911c7177b9bb3053f1cfa678bfa}
+      \strng{fullhash}{5f87f911c7177b9bb3053f1cfa678bfa}
+      \strng{bibnamehash}{5f87f911c7177b9bb3053f1cfa678bfa}
+      \strng{authorbibnamehash}{5f87f911c7177b9bb3053f1cfa678bfa}
+      \strng{authornamehash}{5f87f911c7177b9bb3053f1cfa678bfa}
+      \strng{authorfullhash}{5f87f911c7177b9bb3053f1cfa678bfa}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physica A: Statistical Mechanics and its Applications}
+      \field{number}{1}
+      \field{title}{Delays, inaccuracies and anticipation in microscopic traffic models}
+      \field{volume}{360}
+      \field{year}{2006}
+      \field{pages}{71\bibrangedash 88}
+      \range{pages}{18}
+      \verb{file}
+      \verb :/Users/martinscheuchenpflug/fh/Bachelorarbeit/Literatur/HDM.pdf:PDF
+      \endverb
+    \endentry
+    \entry{wang1993grpc}{article}{}
+      \name{author}{3}{}{%
+        {{hash=1b63b17553e4134eb51a900392211f13}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Xingwei},
+           giveni={X\bibinitperiod}}}%
+        {{hash=ce8afda32ef280c22fd9cc131d3a3ae2}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Hong},
+           giveni={H\bibinitperiod}}}%
+        {{hash=29f2793e914a14d0cdb248cd6213b1bc}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={Jiakeng},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ACM New York, NY, USA}%
+      }
+      \strng{namehash}{614e296cc94b327394c06152e6dfd2b8}
+      \strng{fullhash}{614e296cc94b327394c06152e6dfd2b8}
+      \strng{bibnamehash}{614e296cc94b327394c06152e6dfd2b8}
+      \strng{authorbibnamehash}{614e296cc94b327394c06152e6dfd2b8}
+      \strng{authornamehash}{614e296cc94b327394c06152e6dfd2b8}
+      \strng{authorfullhash}{614e296cc94b327394c06152e6dfd2b8}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ACM SIGOPS Operating Systems Review}
+      \field{number}{3}
+      \field{title}{GRPC: A communication cooperation mechanism in distributed systems}
+      \field{volume}{27}
+      \field{year}{1993}
+      \field{pages}{75\bibrangedash 86}
+      \range{pages}{12}
+      \verb{file}
+      \verb :/Users/martinscheuchenpflug/fh/Bachelorarbeit/Literatur/GRPC.pdf:PDF
+      \endverb
+    \endentry
+    \entry{Wynne2019}{article}{}
+      \name{author}{3}{}{%
+        {{hash=a58766408ed439efd20f6623cc5cecc0}{%
+           family={Wynne},
+           familyi={W\bibinitperiod},
+           given={Rachael\bibnamedelima A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=0b52bdcc02267bdcf10528f8b156a5dc}{%
+           family={Beanland},
+           familyi={B\bibinitperiod},
+           given={Vanessa},
+           giveni={V\bibinitperiod}}}%
+        {{hash=92dc00532bf303d19a30c7b7e261e5d9}{%
+           family={Salmon},
+           familyi={S\bibinitperiod},
+           given={Paul\bibnamedelima M.},
+           giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{8fa865f14172688f6d3503b484205fff}
+      \strng{fullhash}{8fa865f14172688f6d3503b484205fff}
+      \strng{bibnamehash}{8fa865f14172688f6d3503b484205fff}
+      \strng{authorbibnamehash}{8fa865f14172688f6d3503b484205fff}
+      \strng{authornamehash}{8fa865f14172688f6d3503b484205fff}
+      \strng{authorfullhash}{8fa865f14172688f6d3503b484205fff}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Driving simulators are a common tool for researching driver behaviour, providing practical, safe, and controlled environments. Despite their frequent use in research, there is relatively little evidence confirming their validity (i.e., how accurately they represent or reproduce real-world driving). Moreover, there is inconsistency in both the types of simulators used, and the operationalisation of “real-world” driving in validations. This systematic review was undertaken to evaluate the evidence regarding driving simulator accuracy when compared with real-world driving. The review included 44 studies reporting a direct comparison between simulated driving and on-road driving in a vehicle. Measures reported for comparison varied but included mean speed, speed variability, lateral position, overall driving performance, and number of driving errors. Simulators in approximately half of the studies achieved absolute or relative validity, whereas one third produced non-valid results. To understand this further, the fidelity of simulators was considered, however this further clouded our understanding as the relationship between simulator fidelity and validity was not straightforward. The findings suggest that the reporting of driving simulator studies requires improvement, particularly around the validation evidence associated with the simulator, the specific details of the simulated driving environment, and the outputs of statistical analyses. Guidelines are proposed for future research to ensure consistency in the conduct, and reporting, of simulator-based research.}
+      \field{issn}{0925-7535}
+      \field{journaltitle}{Safety Science}
+      \field{title}{Systematic review of driving simulator validation studies}
+      \field{volume}{117}
+      \field{year}{2019}
+      \field{pages}{138\bibrangedash 151}
+      \range{pages}{14}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.ssci.2019.04.004
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0925753518320459
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0925753518320459
+      \endverb
+      \keyw{Driving simulator,Validation,Fidelity,Real-world driving}
+    \endentry
+    \entry{MovSimUI}{online}{}
+      \name{author}{1}{}{%
+        {{hash=e0ae7a0d6da7c895284a1fbab0372658}{%
+           family={Plassat},
+           familyi={P\bibinitperiod},
+           given={Gabriel},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{e0ae7a0d6da7c895284a1fbab0372658}
+      \strng{fullhash}{e0ae7a0d6da7c895284a1fbab0372658}
+      \strng{bibnamehash}{e0ae7a0d6da7c895284a1fbab0372658}
+      \strng{authorbibnamehash}{e0ae7a0d6da7c895284a1fbab0372658}
+      \strng{authornamehash}{e0ae7a0d6da7c895284a1fbab0372658}
+      \strng{authorfullhash}{e0ae7a0d6da7c895284a1fbab0372658}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{month}{2}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb wiki.lafabriquedesmobilites.fr
+      \endverb
+      \verb{url}
+      \verb wiki.lafabriquedesmobilites.fr
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
