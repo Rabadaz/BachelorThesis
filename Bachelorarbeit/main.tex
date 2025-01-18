@@ -39,6 +39,19 @@
     >=LaTeX
 }
 
+\usetikzlibrary{shapes.geometric, arrows}
+
+% Define TikZ styles for UML classes
+\tikzstyle{class} = [
+rectangle,
+rounded corners,
+draw=black,
+fill=blue!10,
+text centered,
+text width=4cm,
+minimum height=1cm
+]
+
 \tikzstyle{arrowUni} = [draw, ->]
 \tikzstyle{arrowBi} = [draw, <->]
 
@@ -50,6 +63,11 @@
     }%
 }{}
 
+\tikzstyle{arrow} = [
+thick,
+->,
+>=stealth
+]
 
 \newlist{encase}{enumerate}{1}
 \setlist[encase]{label=Case \arabic*:, leftmargin=2cm}
@@ -97,6 +115,7 @@
 \mainmatter                                    % Main part (arabic page numbers)
 %%%-----------------------------------------------------------------------------
 \include{chapters/Introduction}
+\include{chapters/Basics}
 \include{chapters/RelatedWork}
 \include{chapters/Methods}
 \include{chapters/Results}

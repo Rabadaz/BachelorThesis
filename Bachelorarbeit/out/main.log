@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.24)  28 DEC 2024 18:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.24)  17 JAN 2025 13:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -356,7 +356,7 @@ File: pgfcalendar.code.tex 2023-01-15 v3.1.10 (3.1.10)
 
 Package hagenberg-thesis Warning: 
 **************************************************************** 
-NOTE: 'hagenberg-thesis' is 418 days old - pls. check for updates 
+NOTE: 'hagenberg-thesis' is 438 days old - pls. check for updates 
 at https://github.com/Digital-Media/HagenbergThesis 
 **************************************************************** 
  on input line 100.
@@ -1662,12 +1662,28 @@ File: tikzlibrarybackgrounds.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@layerbox@background=\box98
 \pgf@layerboxsaved@background=\box99
 )
+(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibrary
+shapes.geometric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryarrows.code.tex
+File: tikzlibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.
+code.tex
+File: pgflibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\arrowsize=\dimen352
+))
 \c@encasei=\count552
 \enitdp@encase=\count553
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/bookmark/bookmark.sty
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/bookmark/bookmark.sty
 Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
@@ -1683,6 +1699,8 @@ t.aux)
 sung.aux)
 (/Users/martinscheuchenpflug/fh/Bachelorarbeit/Bachelorarbeit/out/chapters/Intr
 oduction.aux)
+(/Users/martinscheuchenpflug/fh/Bachelorarbeit/Bachelorarbeit/out/chapters/Basi
+cs.aux)
 (/Users/martinscheuchenpflug/fh/Bachelorarbeit/Bachelorarbeit/out/chapters/Rela
 tedWork.aux)
 (/Users/martinscheuchenpflug/fh/Bachelorarbeit/Bachelorarbeit/out/chapters/Meth
@@ -1695,24 +1713,24 @@ reWork.aux)
 .aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1748,22 +1766,22 @@ LaTeX Font Info:    ... okay on input line 64.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package csquotes Info: Redefining character " on input line 64.
+Package csquotes Info: Redefining character " on input line 82.
 (/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count555
-\scratchdimen=\dimen352
+\scratchdimen=\dimen353
 \scratchbox=\box100
 \nofMPsegments=\count556
 \nofMParguments=\count557
 \everyMPshowfont=\toks55
 \MPscratchCnt=\count558
-\MPscratchDim=\dimen353
+\MPscratchDim=\dimen354
 \MPnumerator=\count559
 \makeMPintoPDFobject=\count560
 \everyMPtoPDFconversion=\toks56
 )
-Package hyperref Info: Link coloring OFF on input line 64.
+Package hyperref Info: Link coloring OFF on input line 82.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: listings package is loaded.
 Package caption Info: longtable package is loaded.
@@ -1811,8 +1829,8 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
 
 (/Users/martinscheuchenpflug/fh/Bachelorarbeit/Bachelorarbeit/out/main.bbl)
-Package biblatex Info: Reference section=0 on input line 64.
-Package biblatex Info: Reference segment=0 on input line 64.
+Package biblatex Info: Reference section=0 on input line 82.
+Package biblatex Info: Reference segment=0 on input line 82.
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/translations/translations-basic-d
 ictionary-english.trsl
@@ -1820,7 +1838,7 @@ File: translations-basic-dictionary-english.trsl (english translation file `tra
 nslations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `english'. on input line 64.
+or `english'. on input line 82.
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/translations/translations-basic-d
 ictionary-german.trsl
@@ -1828,42 +1846,42 @@ File: translations-basic-dictionary-german.trsl (german translation file `trans
 lations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `german'. on input line 64.
+or `german'. on input line 82.
 <<sRGB.icc>>
-Package csquotes Info: Redefining character " on input line 89.
-LaTeX Font Info:    Trying to load font information for T1+lmss on input line 8
-9.
+Package csquotes Info: Redefining character " on input line 107.
+LaTeX Font Info:    Trying to load font information for T1+lmss on input line 1
+07.
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/t1lmss.fd
 File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 8
-9.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 1
+07.
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )<<ot1.cmap>>
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 8
-9.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
+07.
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )<<oml.cmap>>
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-89.
+107.
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )<<oms.cmap>><<omx.cmap>>
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <6> on input line 89.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 89.
-
+(Font)              <6> on input line 107.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 107
+.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 89.
-
+LaTeX Font Info:    Trying to load font information for U+msb on input line 107
+.
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -1871,7 +1889,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 <images//logo.pdf, id=14, 269.93045pt x 269.93045pt>
 File: images//logo.pdf Graphic file (type pdf)
 <use images//logo.pdf>
-Package pdftex.def Info: images//logo.pdf  used on input line 89.
+Package pdftex.def Info: images//logo.pdf  used on input line 107.
 (pdftex.def)             Requested size: 85.35805pt x 85.35826pt.
  [1
 
@@ -1881,12 +1899,12 @@ Package pdftex.def Info: images//logo.pdf  used on input line 89.
 al/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc} <./images//logo.pdf>] 
 [2]
 LaTeX Font Info:    Trying to load font information for TS1+lmss on input line 
-89.
+107.
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/ts1lmss.fd
 File: ts1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-Package csquotes Info: Redefining character " on input line 89.
+Package csquotes Info: Redefining character " on input line 107.
  [3{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}] [4
 
 ]
@@ -1902,13 +1920,14 @@ Overfull \hbox (0.1675pt too wide) detected at line 8
 Package tocbasic Info: Using my definition of `\numberline' on input line 9.
 Package tocbasic Info: Using my definition of `\numberline' on input line 12.
 Package tocbasic Info: Using my definition of `\numberline' on input line 19.
-Package tocbasic Info: Using my definition of `\numberline' on input line 29.
+Package tocbasic Info: Using my definition of `\numberline' on input line 37.
+Package tocbasic Info: Using my definition of `\numberline' on input line 38.
 [5
 
 ]
-Package tocbasic Info: Using my definition of `\numberline' on input line 39.
-Package tocbasic Info: Using my definition of `\numberline' on input line 40.
-Package tocbasic Info: Using my definition of `\numberline' on input line 41.
+Package tocbasic Info: Using my definition of `\numberline' on input line 48.
+Package tocbasic Info: Using my definition of `\numberline' on input line 49.
+Package tocbasic Info: Using my definition of `\numberline' on input line 50.
 )
 \tf@toc=\write5
 \openout5 = `main.toc'.
@@ -1951,7 +1970,7 @@ Chapter 1.
 
 ]
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 4
-8.
+9.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) [2]
@@ -1964,17 +1983,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 83--84
  []
 
 [3]) [4]
-\openout2 = `chapters/RelatedWork.aux'.
+\openout2 = `chapters/Basics.aux'.
 
- (./chapters/RelatedWork.tex
+ (./chapters/Basics.tex
 Chapter 2.
 
-Underfull \hbox (badness 10000) in paragraph at lines 21--21
+Underfull \hbox (badness 10000) in paragraph at lines 20--20
 []|\T1/lmr/m/n/10.95 Time
  []
 
 
-Overfull \hbox (6.45642pt too wide) in paragraph at lines 19--34
+Overfull \hbox (6.45642pt too wide) in paragraph at lines 18--33
  [][] 
  []
 
@@ -1983,9 +2002,9 @@ Overfull \hbox (6.45642pt too wide) in paragraph at lines 19--34
 
 
 
-{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/loca
-l/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2023
-/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}] [6]
+] [6{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/
+local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/
+2023/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}]
 LaTeX Font Info:    External font `cmex7' loaded for size
 (Font)              <5> on input line 71.
 
@@ -1997,37 +2016,122 @@ Overfull \hbox (11.89465pt too wide) in paragraph at lines 87--97
 <images//Movsim.jpg, id=285, 1165.35374pt x 633.11531pt>
 File: images//Movsim.jpg Graphic file (type jpg)
 <use images//Movsim.jpg>
-Package pdftex.def Info: images//Movsim.jpg  used on input line 114.
+Package pdftex.def Info: images//Movsim.jpg  used on input line 115.
 (pdftex.def)             Requested size: 290.7859pt x 157.97896pt.
- [8 <./images//Movsim.jpg>]) [9]
-\openout2 = `chapters/Methods.aux'.
+ [8]
+<images//SUMO_UI.png, id=307, 433.62pt x 343.2825pt>
+File: images//SUMO_UI.png Graphic file (type png)
+<use images//SUMO_UI.png>
+Package pdftex.def Info: images//SUMO_UI.png  used on input line 136.
+(pdftex.def)             Requested size: 290.7859pt x 230.21806pt.
+ [9 <./images//Movsim.jpg>] [10 <./images//SUMO_UI.png>] [11]
+<images//TraffSimArchitecture.jpg, id=367, 831.105pt x 923.70094pt>
+File: images//TraffSimArchitecture.jpg Graphic file (type jpg)
+<use images//TraffSimArchitecture.jpg>
+Package pdftex.def Info: images//TraffSimArchitecture.jpg  used on input line 2
+37.
+(pdftex.def)             Requested size: 415.41025pt x 461.6943pt.
+ [12]
+[13 <./images//TraffSimArchitecture.jpg>] [14]
+<images//Carla-Simulator-System-Architecture-Pipeline.png, id=406, 853.1875pt x
+ 570.13pt>
+File: images//Carla-Simulator-System-Architecture-Pipeline.png Graphic file (ty
+pe png)
+<use images//Carla-Simulator-System-Architecture-Pipeline.png>
+Package pdftex.def Info: images//Carla-Simulator-System-Architecture-Pipeline.p
+ng  used on input line 290.
+(pdftex.def)             Requested size: 332.32945pt x 222.08012pt.
+ [15 <./images//Carla-Simulator-System-Architecture-Pipeline.png>]
+<images//open_drive_open_scenario.png, id=424, 635.538pt x 420.261pt>
+File: images//open_drive_open_scenario.png Graphic file (type png)
+<use images//open_drive_open_scenario.png>
+Package pdftex.def Info: images//open_drive_open_scenario.png  used on input li
+ne 306.
+(pdftex.def)             Requested size: 332.32945pt x 219.75539pt.
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
+nput line 316.
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 3
+16.
 
- (./chapters/Methods.tex
-Chapter 3.
-
-Overfull \hbox (93.23344pt too wide) in paragraph at lines 35--36
- [][] 
+(/usr/local/texlive/2023/texmf-dist/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+Overfull \hbox (17.0pt too wide) in paragraph at lines 315--359
+[]$[]$ 
  []
 
-[10
+[16 <./images//open_drive_open_scenario.png>]
+<images//reference_line_system.jpg, id=438, 1003.75pt x 295.1025pt>
+File: images//reference_line_system.jpg Graphic file (type jpg)
+<use images//reference_line_system.jpg>
+Package pdftex.def Info: images//reference_line_system.jpg  used on input line 
+364.
+(pdftex.def)             Requested size: 415.41025pt x 122.13203pt.
+ [17]
+<images//opendrive_reference_line_geom.png, id=492, 455.52pt x 248.565pt>
+File: images//opendrive_reference_line_geom.png Graphic file (type png)
+<use images//opendrive_reference_line_geom.png>
+Package pdftex.def Info: images//opendrive_reference_line_geom.png  used on inp
+ut line 384.
+(pdftex.def)             Requested size: 332.32945pt x 181.34853pt.
+ [18 <./images//reference_line_system.jpg>] [19 <./images//opendrive_reference_
+line_geom.png>]
+LaTeX Font Info:    External font `cmex7' loaded for size
+(Font)              <7> on input line 453.
+
+
+./chapters/Basics.tex:455: Package tikz Error: Giving up on this path. Did you 
+forget a semicolon?.
+
+See the tikz package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.455 ...      \draw[dashed] ((-1.5,0) -- (5.5,0))
+                                                  ;
+This error message was generated by an \errmessage
+command, so I can't give any explicit help.
+Pretend that you're Hercule Poirot: Examine all clues,
+and deduce the truth by order and method.
+
+Missing character: There is no ) in font nullfont!
+Missing character: There is no ; in font nullfont!
+) [20]
+\openout2 = `chapters/RelatedWork.aux'.
+
+ (./chapters/RelatedWork.tex
+Chapter 3.
+) [21
 
 
 
 
 ]
-Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 68.
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 6
-8.
- (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/t1lmtt.fd
-File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) [11] [12])
-[13]
+\openout2 = `chapters/Methods.aux'.
+
+ (./chapters/Methods.tex
+Chapter 4.
+
+Overfull \hbox (93.23344pt too wide) in paragraph at lines 35--36
+ [][] 
+ []
+
+[22
+
+
+
+
+]
+Overfull \hbox (17.0pt too wide) in paragraph at lines 67--94
+[]$[]$ 
+ []
+
+[23] [24]) [25]
 \openout2 = `chapters/Results.aux'.
 
  (./chapters/Results.tex
-Chapter 4.
-) [14
+Chapter 5.
+) [26
 
 
 
@@ -2036,27 +2140,27 @@ Chapter 4.
 \openout2 = `chapters/FutureWork.aux'.
 
  (./chapters/FutureWork.tex
-Chapter 5.
-) [15
+Chapter 6.
+) [27
 
 
 
 
 ]
-Underfull \hbox (badness 1454) in paragraph at lines 118--118
+Underfull \hbox (badness 1454) in paragraph at lines 137--137
 \T1/lmr/m/n/10.95 ^^P  TraffSim-A traf-fic sim-u-la-tor for in-ves-ti-ga-tions 
 of con-ges-tion min-i-miza-tion
  []
 
-[16
+[28
 
 
 
 
-] [17]
+] [29] [30] [31]
 \openout2 = `back/printbox.aux'.
 
- (./back/printbox.tex) [18
+ (./back/printbox.tex) [32
 
 
 ]
@@ -2069,6 +2173,8 @@ t.aux)
 sung.aux)
 (/Users/martinscheuchenpflug/fh/Bachelorarbeit/Bachelorarbeit/out/chapters/Intr
 oduction.aux)
+(/Users/martinscheuchenpflug/fh/Bachelorarbeit/Bachelorarbeit/out/chapters/Basi
+cs.aux)
 (/Users/martinscheuchenpflug/fh/Bachelorarbeit/Bachelorarbeit/out/chapters/Rela
 tedWork.aux)
 (/Users/martinscheuchenpflug/fh/Bachelorarbeit/Bachelorarbeit/out/chapters/Meth
@@ -2087,35 +2193,39 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 52131 strings out of 476025
- 1107601 string characters out of 5790016
- 2067834 words of memory out of 5000000
- 71371 multiletter control sequences out of 15000+600000
- 591130 words of font info for 85 fonts, out of 8000000 for 9000
+ 53735 strings out of 476025
+ 1151810 string characters out of 5790016
+ 2460413 words of memory out of 5000000
+ 72829 multiletter control sequences out of 15000+600000
+ 599162 words of font info for 95 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 130i,14n,145p,1690b,2769s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 130i,14n,145p,1690b,2787s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
 ></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/loc
 al/texlive/2023/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texliv
 e/2023/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/local/texlive/2023/tex
-mf-dist/fonts/type1/public/lm/lmmi8.pfb></usr/local/texlive/2023/texmf-dist/fon
-ts/type1/public/lm/lmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/pu
-blic/lm/lmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr
-6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/
-local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr9.pfb></usr/local/texliv
-e/2023/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2023/tex
-mf-dist/fonts/type1/public/lm/lmss10.pfb></usr/local/texlive/2023/texmf-dist/fo
-nts/type1/public/lm/lmss12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/
-public/lm/lmss17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/
-lmssbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsy10.p
-fb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsy6.pfb></usr/lo
-cal/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsy8.pfb></usr/local/texlive
-/2023/texmf-dist/fonts/type1/public/lm/lmtt9.pfb>
+mf-dist/fonts/type1/public/lm/lmmi6.pfb></usr/local/texlive/2023/texmf-dist/fon
+ts/type1/public/lm/lmmi8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/pu
+blic/lm/lmmi9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr
+10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr12.pfb></us
+r/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr6.pfb></usr/local/texl
+ive/2023/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/2023/tex
+mf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2023/texmf-dist/font
+s/type1/public/lm/lmr9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/publ
+ic/lm/lmri10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss
+10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss12.pfb></u
+sr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/t
+exlive/2023/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2
+023/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2023/texmf-
+dist/fonts/type1/public/lm/lmsy6.pfb></usr/local/texlive/2023/texmf-dist/fonts/
+type1/public/lm/lmsy8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/publi
+c/lm/lmtt9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/
+symbols/msbm10.pfb>
 Output written on /Users/martinscheuchenpflug/fh/Bachelorarbeit/Bachelorarbeit/
-out/main.pdf (27 pages, 999863 bytes).
+out/main.pdf (41 pages, 3807913 bytes).
 PDF statistics:
- 646 PDF objects out of 1000 (max. 8388607)
- 567 compressed objects within 6 object streams
- 128 named destinations out of 1000 (max. 500000)
- 385 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 993 PDF objects out of 1000 (max. 8388607)
+ 875 compressed objects within 9 object streams
+ 243 named destinations out of 1000 (max. 500000)
+ 423 words of extra memory for PDF output out of 10000 (max. 10000000)
 

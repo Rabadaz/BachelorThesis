@@ -4,7 +4,7 @@
     \subsection{Driving simulation}\label{subsec:driving-simulation}
         The use of driving simulators is common practice among researchers for studying driving behaviors in scenarios that may include dangerous and unlikely situations\cite{Wynne2019,That2011}.
         % TODO: reformulate
-        The utilization of driving simulators is primarily driven by the significant reduction in time and financial resources for engineers and developers, as evidenced by reference\cite{That2011}.
+        Utilization of driving simulators is primarily driven by the significant reduction in time and financial resources for engineers and developers, as evidenced by reference\cite{That2011}.
         Additionally, it facilitates expeditious research and evaluation of innovative human-machine-interface designs (HMI) within the automotive industry\cite{riegler2023}.
         % "me"-perspective zittieren?
         One such simulator represents the "me"-perspective by focusing the simulation on the vehicle that is driven by a human in the simulator, thereby ensuring that this vehicle is modeled with great precision.
@@ -14,10 +14,11 @@
         The use of microscopic traffic simulators is also a common methodology among researchers studying the dynamics of vehicular traffic, particularly in the context of intelligent transportation systems (ITS)\cite{toledo2005microscopic}.
         One such microscopic traffic simulator employs (among other models like: lane-change, fuel-consumption, \ldots) car-following models to regulate the acceleration and, consequently, the movement of each vehicle\cite{treiber2013traffic}.
         A variety of car-following models are available to use for modelling different types of vehicles.
-        One notable example of such a model is the IDM (Intelligent Driver Model) (see Section~\ref{subsec:intelligent-driver-model}) described by Springer et al., which assembles one of the simplest complete and accident free models, that produces plausible acceleration profiles\cite{treiber2013traffic}.
+        One notable example is the IDM (Intelligent Driver Model) (see Section~\ref{subsec:intelligent-driver-model}) described by Springer et al., which assembles a complete and accident free models, that produces plausible acceleration profiles\cite{treiber2013traffic}.
         % TODO:Richtig Zittiert??
-        Moreover, as described by Treiber et al. these models are derived from a set of assumptions about real drivers such as keeping a "safe distance" from the leeding vehicle, driving at a desired speed or prefaring acceleration to be within a comfortable range.
-        As all the mentioned Parameters are like sensor-values to a modern ACC (adaptive cruse control) System, models operating that way typically produce driving behaviors similar to those observed by the use of ACC systems\cite{treiber2013traffic}.
+        Moreover, as described in~\cite{treiber2013traffic} these models are derived from a set of assumptions about real drivers such as keeping a "safe distance" from the leading vehicle, driving at a desired speed or preferring acceleration to be within a comfortable range, etc.
+        As all the mentioned Parameters are like sensor-values to a modern ACC (adaptive cruse control) System with the model being the control system.
+        Since these models are fully deterministic, they don`t model the "errors" of human drivers.
 
     \subsection{Integrated simulation environment}\label{subsec:integrated-simulation-environment}
 
@@ -35,15 +36,15 @@
             \label{fig:int:architecture}
         \end{figure}
 
-        With the goal in mind of investigating the impact of human drivers on traffic flow, one valid solution is to model the imperfections of a human driver.
-        Using  so called meta-models on top of  typical vehicle-following models which modify the behavior to closely match a real human driver is common practice.
-        Example for meta-models are for example the human driver model (HDC)\cite{treiber2006delays} or the extended human driver model (EHDC)\cite{Lindorfer2018}.
+        The goal of investigating the impact of human drivers on traffic flow can be achieved by modeling those imperfections of a human driver.
+        Using so called meta-models on top of  typical vehicle-following models which modify the behavior to closely match a real human driver.
+        Example for meta-models are the human driver model (HDC)\cite{treiber2006delays} or the extended human driver model (EHDC)\cite{Lindorfer2018}.
         An additional potential methodology for the observation of human behavior is to engage directly in a scenario, which offers the benefit of eliminating the necessity for a model of the human driver.
         As a result of the direct participation of the human in the scenario, the impact of that behavior on the overall traffic flow can be observed.
-        The aforementioned "me"-perspective is transformed into a holistic "we"-perspective through the utilization of an integrated simulation environment.
+        The aforementioned "me"-perspective is transformed into a holistic "we"-perspective through the utilization of an integrated simulation environment~\cite{riegler2023}.
         This kind of integration has proven very useful\cite{punzo2010integration}.
 
-        In Essence there are two types of integrations:
+        There are two types of integrations:
         \begin{itemize}
             \item \textbf{Offline integration:} For this integration a driving simulator and a traffic simulator are used seperatly.
             For example one could build the same scenario in both simulators and a human driver could participate in the scenario inside the driving simulator.
@@ -55,7 +56,6 @@
             By running the simulators in sync, it is possible for the simulation controlled (by the traffic simulator) vehicles to react to the driving actions of the vehicle controlled by a human driver.
         \end{itemize}
         The remaining work focuses on the online integration of the simulators, unless otherwise specified.
-        %TODO: Ziele beschreiben
 
 \section{Objective of the work}\label{sec:objective-of-the-work}
     In this thesis, an integrated Simulation Environment is proposed, consisting of the driving simulator CARLA\cite{carla2017} and the microscopic traffic simulator TraffSim\cite{backfrieder2013traffsim,backfrieder2014traffsim}.
@@ -85,14 +85,15 @@
     The initial chapter, entitled "Introduction", provides an overview of the subject, outlining the historical development of driving and traffic simulation, the individual functionalities of each, and the rationale for integrating them into a unified environment.
     Furthermore, it delineates the objectives and scope of the work.
 
-    The second chapter, entitled "Related Work", presents a review of existing research on driving and traffic simulation systems.
+    The second chapter, entitled "Basics", identifies the foundational studies of the field of traffic research, that are related to the discussed topic.
+
+    The third chapter, entitled "Related Work", presents a review of existing research on driving and traffic simulation systems.
     It focuses on previously explored methods for integration, identifying both successful techniques and common obstacles encountered.
 
-    The third chapter, entitled "Methods", provides a detailed account of the architectural design of the integrated simulation environment.
+    The fourth chapter, entitled "Methods", provides a detailed account of the architectural design of the integrated simulation environment.
     It describes the technical framework and design decisions that have been taken in order to achieve synchronisation of the simulators, to facilitate real-time data exchange and to ensure compatibility between simulator platforms.
 
-    The fourth chapter, Results, presents the outcomes of the implemented integration, including a discussion of performance metrics, an analysis of the observed behaviours of the simulation components, and an evaluation of the solutions proposed for specific integration challenges.
+    The fifth chapter, Results, presents the outcomes of the implemented integration, including a discussion of performance metrics, an analysis of the observed behaviours of the simulation components, and an evaluation of the solutions proposed for specific integration challenges.
 
-    The fifth chapter, entitled "Future Work", identifies areas for further research and development.
-    It discusses potential improvements in integration techniques and considers ways of expanding the functionality and realism of the integrated simulation environment.
-    The thesis concludes with a summary and reflections on the insights gained through the integration process, its potential implications and the contributions made to the field of simulation in intelligent transportation systems.
+    The sixth chapter, entitled "Future Work", identifies areas for further research and development.
+    It mainly discusses future use cases for the proposed integrated environment in addition to a description of the necessary steps to transform the already working proof of concept into a usable tool for traffic research.

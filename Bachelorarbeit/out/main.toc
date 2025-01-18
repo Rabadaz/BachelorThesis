@@ -16,28 +16,37 @@
 \contentsline {subsection}{\numberline {1.1.3}Integrated simulation environment}{2}{subsection.1.1.3}%
 \contentsline {section}{\numberline {1.2}Objective of the work}{3}{section.1.2}%
 \contentsline {section}{\numberline {1.3}Structure}{3}{section.1.3}%
-\contentsline {chapter}{\numberline {2}Related work}{5}{chapter.2}%
+\contentsline {chapter}{\numberline {2}Basics}{5}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Foundational studies}{5}{section.2.1}%
-\contentsline {subsection}{\numberline {2.1.1}Gazis-Herman-Rothery model}{5}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.1}Gazis-Herman-Rothery model}{6}{subsection.2.1.1}%
 \contentsline {subsection}{\numberline {2.1.2}Gipps' model}{6}{subsection.2.1.2}%
 \contentsline {subsection}{\numberline {2.1.3}Intelligent driver model}{7}{subsection.2.1.3}%
 \contentsline {subsection}{\numberline {2.1.4}Micro traffic simulation}{8}{subsection.2.1.4}%
-\contentsline {section}{\numberline {2.2}Studies closely related to an integrated simulation environment}{9}{section.2.2}%
-\contentsline {section}{\numberline {2.3}Summary of findings}{9}{section.2.3}%
-\contentsline {section}{\numberline {2.4}Microscopic traffic simulation}{9}{section.2.4}%
-\contentsline {section}{\numberline {2.5}Driving simulation}{9}{section.2.5}%
-\contentsline {chapter}{\numberline {3}Methods}{10}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Architecture of the Integrated Simulation Environment}{10}{section.3.1}%
-\contentsline {subsection}{\numberline {3.1.1}Vehicles in TraffSim}{10}{subsection.3.1.1}%
-\contentsline {subsection}{\numberline {3.1.2}Simulation step synchronisation}{11}{subsection.3.1.2}%
-\contentsline {subsection}{\numberline {3.1.3}Real time simulation}{11}{subsection.3.1.3}%
-\contentsline {section}{\numberline {3.2}TraffSim API}{11}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Mapped dummy vehicles}{12}{section.3.3}%
-\contentsline {subsection}{\numberline {3.3.1}Map matching}{12}{subsection.3.3.1}%
-\contentsline {section}{\numberline {3.4}Speed and Acceleration projection}{12}{section.3.4}%
-\contentsline {section}{\numberline {3.5}Road network export and sync}{13}{section.3.5}%
-\contentsline {chapter}{\numberline {4}Results}{14}{chapter.4}%
-\contentsline {chapter}{\numberline {5}Future work}{15}{chapter.5}%
-\contentsline {chapter}{References}{16}{appendix*.12}%
-\contentsline {section}{Literature}{16}{section*.13}%
-\contentsline {section}{Online sources}{17}{section*.14}%
+\contentsline {subsubsection}{MovSim}{8}{subsection.2.1.4}%
+\contentsline {subsubsection}{Eclipse SUMO}{9}{figure.caption.9}%
+\contentsline {subsubsection}{TraffSim}{10}{figure.caption.10}%
+\contentsline {subsection}{\numberline {2.1.5}Driving simulation}{14}{subsection.2.1.5}%
+\contentsline {subsubsection}{Level of Abstraction}{14}{subsection.2.1.5}%
+\contentsline {subsubsection}{Fidelity and Realism}{14}{subsection.2.1.5}%
+\contentsline {subsubsection}{Driver in the loop}{14}{subsection.2.1.5}%
+\contentsline {subsubsection}{CARLA}{15}{subsection.2.1.5}%
+\contentsline {section}{\numberline {2.2}Studies closely related to an integrated simulation environment}{16}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}OpenDrive/OpenScenario}{16}{subsection.2.2.1}%
+\contentsline {subsubsection}{Reference line system}{18}{lstnumber.2.1.41}%
+\contentsline {subsection}{\numberline {2.2.2}Map matching}{19}{subsection.2.2.2}%
+\contentsline {chapter}{\numberline {3}Related Work}{21}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Methods}{22}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Architecture of the Integrated Simulation Environment}{22}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Vehicles in TraffSim}{22}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Simulation step synchronisation}{23}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}Real time simulation}{23}{subsection.4.1.3}%
+\contentsline {section}{\numberline {4.2}TraffSim API}{23}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Mapped dummy vehicles}{24}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Map matching}{24}{subsection.4.3.1}%
+\contentsline {section}{\numberline {4.4}Speed and Acceleration projection}{24}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Road network export and sync}{25}{section.4.5}%
+\contentsline {chapter}{\numberline {5}Results}{26}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Future work}{27}{chapter.6}%
+\contentsline {chapter}{References}{28}{appendix*.21}%
+\contentsline {section}{Literature}{28}{section*.22}%
+\contentsline {section}{Online sources}{31}{section*.23}%

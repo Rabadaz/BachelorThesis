@@ -47,7 +47,7 @@
 
     \subsection{Real time simulation}\label{subsec:real-time-simulation}
         %FIXME: redo
-        although $t$ must not be lower than the time it takes for the simulation step to be calculated $T$.
+        Although $t$ must not be lower than the time it takes for the simulation step to be calculated $T$.
         To bind the simulation time to the real time, the easiest way would be to set the time step size to the time duration it took for the last simulation step to compute:
         \[
             t_{x} = T_{x-1}
@@ -64,7 +64,7 @@
     The Api was designed to allow the client to control all the functions that are important during a simulation session and also to sync the two simulators.
 
 
-
+\begin{minipage}{\textwidth}
 \begin{GenericCode}[caption={TraffSim API proto}, label={lst:traffSim-api-proto}]
 service TraffSimController {
     rpc requestVehicleData (ActiveSimulationRun)
@@ -90,6 +90,7 @@ service TraffSimController {
     rpc setSimulationDelay (SimulationDelayRequest)
         returns (VoidMessage){}
 }\end{GenericCode}
+\end{minipage}
 
 \section{Mapped dummy vehicles}\label{sec:mapped-dummy-vehicles}
     In TraffSim, there are several different types of vehicles (see Figure ).%TODO:class diagram

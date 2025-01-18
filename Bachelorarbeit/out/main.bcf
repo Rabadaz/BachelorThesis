@@ -2407,42 +2407,105 @@
     <bcf:citekey order="8" intorder="1">treiber2013traffic</bcf:citekey>
     <bcf:citekey order="9" intorder="1">treiber2006delays</bcf:citekey>
     <bcf:citekey order="10" intorder="1">Lindorfer2018</bcf:citekey>
-    <bcf:citekey order="11" intorder="1">punzo2010integration</bcf:citekey>
-    <bcf:citekey order="12" intorder="1">carla2017</bcf:citekey>
-    <bcf:citekey order="13" intorder="1">backfrieder2013traffsim</bcf:citekey>
-    <bcf:citekey order="13" intorder="2">backfrieder2014traffsim</bcf:citekey>
-    <bcf:citekey order="14" intorder="1">Lindorfer2018</bcf:citekey>
-    <bcf:citekey order="15" intorder="1">treiber2013traffic</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">riegler2023</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">punzo2010integration</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">carla2017</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">backfrieder2013traffsim</bcf:citekey>
+    <bcf:citekey order="14" intorder="2">backfrieder2014traffsim</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">Lindorfer2018</bcf:citekey>
     <bcf:citekey order="16" intorder="1">treiber2013traffic</bcf:citekey>
     <bcf:citekey order="17" intorder="1">treiber2013traffic</bcf:citekey>
-    <bcf:citekey order="18" intorder="1">pipes1953operational</bcf:citekey>
-    <bcf:citekey order="19" intorder="1">Brackstone1999</bcf:citekey>
-    <bcf:citekey order="20" intorder="1">newell1961nonlinear</bcf:citekey>
-    <bcf:citekey order="20" intorder="2">lee1966generalization</bcf:citekey>
-    <bcf:citekey order="20" intorder="3">bender1970flow</bcf:citekey>
-    <bcf:citekey order="21" intorder="1">seddon1972program</bcf:citekey>
-    <bcf:citekey order="22" intorder="1">gipps1981behavioural</bcf:citekey>
-    <bcf:citekey order="23" intorder="1">treiber2013traffic</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">treiber2013traffic</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">pipes1953operational</bcf:citekey>
+    <bcf:citekey order="20" intorder="1">Brackstone1999</bcf:citekey>
+    <bcf:citekey order="21" intorder="1">newell1961nonlinear</bcf:citekey>
+    <bcf:citekey order="21" intorder="2">lee1966generalization</bcf:citekey>
+    <bcf:citekey order="21" intorder="3">bender1970flow</bcf:citekey>
+    <bcf:citekey order="22" intorder="1">seddon1972program</bcf:citekey>
+    <bcf:citekey order="23" intorder="1">gipps1981behavioural</bcf:citekey>
     <bcf:citekey order="24" intorder="1">treiber2013traffic</bcf:citekey>
     <bcf:citekey order="25" intorder="1">treiber2013traffic</bcf:citekey>
-    <bcf:citekey order="25" intorder="2">treiber2000IDM</bcf:citekey>
     <bcf:citekey order="26" intorder="1">treiber2013traffic</bcf:citekey>
     <bcf:citekey order="26" intorder="2">treiber2000IDM</bcf:citekey>
     <bcf:citekey order="27" intorder="1">treiber2013traffic</bcf:citekey>
-    <bcf:citekey order="27" intorder="2">backfrieder2013traffsim</bcf:citekey>
-    <bcf:citekey order="27" intorder="3">backfrieder2014traffsim</bcf:citekey>
-    <bcf:citekey order="28" intorder="1">backfrieder2013traffsim</bcf:citekey>
-    <bcf:citekey order="28" intorder="2">backfrieder2014traffsim</bcf:citekey>
-    <bcf:citekey order="29" intorder="1">Treiber2010</bcf:citekey>
-    <bcf:citekey order="30" intorder="1">kesting2007general</bcf:citekey>
-    <bcf:citekey order="31" intorder="1">treiber2013traffic</bcf:citekey>
-    <bcf:citekey order="32" intorder="1">MovSimUI</bcf:citekey>
+    <bcf:citekey order="27" intorder="2">treiber2000IDM</bcf:citekey>
+    <bcf:citekey order="28" intorder="1">treiber2013traffic</bcf:citekey>
+    <bcf:citekey order="28" intorder="2">backfrieder2013traffsim</bcf:citekey>
+    <bcf:citekey order="28" intorder="3">backfrieder2014traffsim</bcf:citekey>
+    <bcf:citekey order="29" intorder="1">backfrieder2013traffsim</bcf:citekey>
+    <bcf:citekey order="29" intorder="2">backfrieder2014traffsim</bcf:citekey>
+    <bcf:citekey order="30" intorder="1">Treiber2010</bcf:citekey>
+    <bcf:citekey order="31" intorder="1">kesting2007general</bcf:citekey>
+    <bcf:citekey order="32" intorder="1">treiber2013traffic</bcf:citekey>
     <bcf:citekey order="33" intorder="1">MovSimUI</bcf:citekey>
-    <bcf:citekey order="34" intorder="1">carla2017</bcf:citekey>
-    <bcf:citekey order="35" intorder="1">backfrieder2013traffsim</bcf:citekey>
-    <bcf:citekey order="35" intorder="2">backfrieder2014traffsim</bcf:citekey>
-    <bcf:citekey order="36" intorder="1">wang1993grpc</bcf:citekey>
-    <bcf:citekey order="37" intorder="1">wang1993grpc</bcf:citekey>
+    <bcf:citekey order="34" intorder="1">MovSimUI</bcf:citekey>
+    <bcf:citekey order="35" intorder="1">Behrisch2011SUMOS</bcf:citekey>
+    <bcf:citekey order="36" intorder="1">SUMOWebsite</bcf:citekey>
+    <bcf:citekey order="37" intorder="1">lownes2006vissim</bcf:citekey>
+    <bcf:citekey order="38" intorder="1">balmer2009matsim</bcf:citekey>
+    <bcf:citekey order="38" intorder="2">w2016multi</bcf:citekey>
+    <bcf:citekey order="39" intorder="1">haklay2008openstreetmap</bcf:citekey>
+    <bcf:citekey order="40" intorder="1">openDrive</bcf:citekey>
+    <bcf:citekey order="41" intorder="1">Behrisch2011SUMOS</bcf:citekey>
+    <bcf:citekey order="42" intorder="1">Behrisch2011SUMOS</bcf:citekey>
+    <bcf:citekey order="43" intorder="1">Behrisch2011SUMOS</bcf:citekey>
+    <bcf:citekey order="44" intorder="1">Behrisch2011SUMOS</bcf:citekey>
+    <bcf:citekey order="45" intorder="1">walls2015spring</bcf:citekey>
+    <bcf:citekey order="46" intorder="1">gronroos2009book</bcf:citekey>
+    <bcf:citekey order="47" intorder="1">foead2021systematic</bcf:citekey>
+    <bcf:citekey order="48" intorder="1">TraffSimDoku</bcf:citekey>
+    <bcf:citekey order="49" intorder="1">treiber2015comparing</bcf:citekey>
+    <bcf:citekey order="50" intorder="1">kaupuvzs2004applications</bcf:citekey>
+    <bcf:citekey order="50" intorder="2">shamoto2011car</bcf:citekey>
+    <bcf:citekey order="51" intorder="1">treiber2015comparing</bcf:citekey>
+    <bcf:citekey order="52" intorder="1">casas2010traffic</bcf:citekey>
+    <bcf:citekey order="53" intorder="1">Behrisch2011SUMOS</bcf:citekey>
+    <bcf:citekey order="54" intorder="1">TraffSimDoku</bcf:citekey>
+    <bcf:citekey order="55" intorder="1">TraffSimDoku</bcf:citekey>
+    <bcf:citekey order="56" intorder="1">TraffSimDoku</bcf:citekey>
+    <bcf:citekey order="57" intorder="1">TraffSimDoku</bcf:citekey>
+    <bcf:citekey order="58" intorder="1">sievers2018driving</bcf:citekey>
+    <bcf:citekey order="59" intorder="1">collis1970lidar</bcf:citekey>
+    <bcf:citekey order="60" intorder="1">Treiber2010</bcf:citekey>
+    <bcf:citekey order="61" intorder="1">carla2017</bcf:citekey>
+    <bcf:citekey order="62" intorder="1">riener2017driver</bcf:citekey>
+    <bcf:citekey order="62" intorder="2">riegler2023</bcf:citekey>
+    <bcf:citekey order="63" intorder="1">santara2021madras</bcf:citekey>
+    <bcf:citekey order="64" intorder="1">wymann2000torcs</bcf:citekey>
+    <bcf:citekey order="65" intorder="1">carla2017</bcf:citekey>
+    <bcf:citekey order="66" intorder="1">lewis2002game</bcf:citekey>
+    <bcf:citekey order="67" intorder="1">liu2022synthetic</bcf:citekey>
+    <bcf:citekey order="68" intorder="1">steinmetz2022digital</bcf:citekey>
+    <bcf:citekey order="69" intorder="1">Codevilla2019</bcf:citekey>
+    <bcf:citekey order="69" intorder="2">ramosautonomous</bcf:citekey>
+    <bcf:citekey order="70" intorder="1">pirri2021towards</bcf:citekey>
+    <bcf:citekey order="71" intorder="1">pirri2021towards</bcf:citekey>
+    <bcf:citekey order="72" intorder="1">openDrive</bcf:citekey>
+    <bcf:citekey order="73" intorder="1">openDrive</bcf:citekey>
+    <bcf:citekey order="74" intorder="1">carlaGit</bcf:citekey>
+    <bcf:citekey order="75" intorder="1">carlaGit</bcf:citekey>
+    <bcf:citekey order="76" intorder="1">openDrive</bcf:citekey>
+    <bcf:citekey order="77" intorder="1">openDrive</bcf:citekey>
+    <bcf:citekey order="78" intorder="1">openDrive</bcf:citekey>
+    <bcf:citekey order="79" intorder="1">openDrive</bcf:citekey>
+    <bcf:citekey order="80" intorder="1">openDrive</bcf:citekey>
+    <bcf:citekey order="81" intorder="1">huang2021survey</bcf:citekey>
+    <bcf:citekey order="82" intorder="1">white2000some</bcf:citekey>
+    <bcf:citekey order="82" intorder="2">joshi2001new</bcf:citekey>
+    <bcf:citekey order="82" intorder="3">greenfeld2002matching</bcf:citekey>
+    <bcf:citekey order="83" intorder="1">bernstein1996introduction</bcf:citekey>
+    <bcf:citekey order="84" intorder="1">Quddus2006</bcf:citekey>
+    <bcf:citekey order="85" intorder="1">quddus2007current</bcf:citekey>
+    <bcf:citekey order="86" intorder="1">bernstein1996introduction</bcf:citekey>
+    <bcf:citekey order="87" intorder="1">bernstein1996introduction</bcf:citekey>
+    <bcf:citekey order="88" intorder="1">bernstein1996introduction</bcf:citekey>
+    <bcf:citekey order="89" intorder="1">bernstein1996introduction</bcf:citekey>
+    <bcf:citekey order="90" intorder="1">bernstein1996introduction</bcf:citekey>
+    <bcf:citekey order="91" intorder="1">carla2017</bcf:citekey>
+    <bcf:citekey order="92" intorder="1">backfrieder2013traffsim</bcf:citekey>
+    <bcf:citekey order="92" intorder="2">backfrieder2014traffsim</bcf:citekey>
+    <bcf:citekey order="93" intorder="1">wang1993grpc</bcf:citekey>
+    <bcf:citekey order="94" intorder="1">wang1993grpc</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">
